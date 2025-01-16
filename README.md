@@ -1,4 +1,3 @@
-# student-management-system
 # Student Management System
 
 This is a simple command-line-based **Student Management System** written in Java. It allows you to manage student records efficiently, providing features such as adding, viewing, searching, and deleting student information.
